@@ -1,4 +1,4 @@
-# Exercícios da Faculdade
+# Exercícios de ADS
 
 Este repositório contém alguns exercícios de programação que realizei durante meu curso de faculdade. O objetivo principal deste repositório é apenas salvar e organizar os exercícios para referência futura. Eles foram desenvolvidos em Python e abordam conceitos básicos de lógica de programação, estruturas de controle e matemática.
 
