@@ -4,10 +4,10 @@ Este repositório contém alguns exercícios de programação que realizei duran
 
 ## Exercícios Contidos no Repositório:
 
-1. **Exercício 1**: Cálculo da soma dos dígitos de um número entre 0 e 99.
-2. **Exercício 2**: Troca de valores entre duas variáveis.
-3. **Exercício 3**: Cálculo de desconto em porcentagem de um produto.
-4. **Exercício 4**: Valor de X (x= 2ab + 3ac − 4bc).
-5. **Exercício 5**: Cálculo da área de um triângulo.
-6. **Exercício 6**: Média com 4 numeros.
-7. **Exercício 7**: Perimetro e area de um quadrado.
+| Exercício  | Descrição                                                  | Exercício  | Descrição                                                       |
+|------------|------------------------------------------------------------|------------|---------------------------------------------------------------|
+| **Exercício 1** | Cálculo da soma dos dígitos de um número entre 0 e 99.    | **Exercício 5** | Cálculo da área de um triângulo.                                |
+| **Exercício 2** | Troca de valores entre duas variáveis.                     | **Exercício 6** | Média com 4 números.                                            |
+| **Exercício 3** | Cálculo de desconto em porcentagem de um produto.          | **Exercício 7** | Perímetro e área de um quadrado.                               |
+| **Exercício 4** | Valor de X (x = 2ab + 3ac − 4bc).                           |            |                                                               |
+
